@@ -19,7 +19,7 @@ A computer vision project that detects whether bike riders are wearing helmets o
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/bike-helmet-detection.git
+git clone https://github.com/ismailnossam01/bike-helmet-detection.git
 cd bike-helmet-detection
 ```
 
@@ -188,16 +188,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-- Website: [Your Website](https://yourwebsite.com)
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
@@ -207,7 +197,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [PySeek](https://pyseek.com/) for the original tutorial
 
 ## 📚 Resources
-
+- [Project Documentation]([https://docs.ultralytics.com/](https://pyseek.com/2024/08/bike-helmet-detection-project-in-python/))
 - [YOLOv8 Documentation](https://docs.ultralytics.com/)
 - [OpenCV Documentation](https://docs.opencv.org/)
 - [Original Tutorial](https://pyseek.com/computer-vision-projects/bike-helmet-detection/)
@@ -225,4 +215,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ⭐ If you found this project helpful, please give it a star!
 
-📧 For questions or support, contact: your.email@example.com
